@@ -1,6 +1,6 @@
 # Django-HTML-Covid19-Live-Data
 
-https://github.com/github/git@github.com:sujith-jeewantha/Django-HTML-Covid19-Live-Data.git/blob/Screenshots/screenshot.png
+![Screenshot](Screenshots/screenshot.png)
 
 to run this project firstly create forlder then inside folder create virtualenvironment and activate it
 
