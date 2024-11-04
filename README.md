@@ -12,7 +12,9 @@ virtualenv venv
 
 # to activate the virtual environment ( in linux )
 
+```
 . env/bin/activate
+```
 
 # then clone the project
 
